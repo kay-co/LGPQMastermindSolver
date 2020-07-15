@@ -1,0 +1,15 @@
+.container {
+    padding: 30px;
+    background: white;
+}
+
+.form-inline input {
+    margin-left: 10px;
+}
+
+body {
+    background-image: url("../../resources/img/sewers-bg.bmp") ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
